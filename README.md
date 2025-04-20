@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @echo0715
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on computer science
+- 🌱 Consistently building interesting product
 - 📫 How to reach me: though email wjb20021004@outlook.com
 
 <!---
